@@ -1,0 +1,6 @@
+<ivy-module version="2.0">
+    <info organisation="vir.samples" module="ant_sample"/>
+    <dependencies>
+        <dependency org="commons-logging" name="commons-logging" rev="1.2"/>
+    </dependencies>
+</ivy-module>

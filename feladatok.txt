@@ -1,0 +1,4 @@
+1. Mûködõ ANT build külsõ Loggerrel. (5 pont)
+2. ANT Apache Ivy bõvítés. (5 pont)
+3. Maven projekt készítése és módosítása, hogy futtatható JAR-t készítsen. (5 pont)
+4. Projekt feltöltése git szerverre. (5 pont)
